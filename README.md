@@ -22,7 +22,7 @@
 
 - 🎓 Mobile Development student in Portugal, going deep on **backend engineering**
 - ⚽ Building a **multiplayer fantasy football web app** — my main learning vehicle for Java & Spring Boot
-- 🌱 Currently mastering: **Spring Security · JWT · PostgreSQL · REST API design**
+- 🌱 Currently mastering: **Java · Spring Boot · PostgreSQL · REST API design**
 - 🚀 Long-term goal: become a well-rounded **Backend Software Engineer**, then explore **DevOps & Cloud**
 - 🧩 I learn by building real things, not by reading docs in a vacuum
 
