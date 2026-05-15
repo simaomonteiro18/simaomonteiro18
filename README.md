@@ -54,8 +54,7 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simaomonteiro18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=simaomonteiro18&layout=compact&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=simaomonteiro18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
