@@ -50,16 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=simaomonteiro18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
