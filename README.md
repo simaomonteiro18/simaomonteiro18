@@ -4,9 +4,9 @@
 
 # Hi, I'm Simão 👋
 
-**Aspiring Software Engineer** crafting scalable systems with Java & Spring Boot
+**Aspiring Backend Software Engineer** crafting scalable systems with Java & Spring Boot
 
-*Mobile Development student → Software Engineer → DevOps & Cloud explorer*
+*Mobile Development student → Backend Software Engineer → DevOps & Cloud explorer*
 
 <br/>
 
