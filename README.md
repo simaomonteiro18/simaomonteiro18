@@ -4,9 +4,9 @@
 
 # Hi, I'm Simão 👋
 
-**Aspiring Backend Engineer** crafting scalable systems with Java & Spring Boot
+**Aspiring Software Engineer** crafting scalable systems with Java & Spring Boot
 
-*Mobile Development student → Backend Engineer → DevOps & Cloud explorer*
+*Mobile Development student → Software Engineer → DevOps & Cloud explorer*
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Mobile Development student in Portugal, going deep on **backend engineering**
+- 🎓 Mobile Development student in Portugal, going deep on **software engineering**
 - ⚽ Building a **multiplayer fantasy football web app** — my main learning vehicle for Java & Spring Boot
 - 🌱 Currently mastering: **Java · Spring Boot · PostgreSQL · REST API design**
 - 🚀 Long-term goal: become a well-rounded **Backend Software Engineer**, then explore **DevOps & Cloud**
