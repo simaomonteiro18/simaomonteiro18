@@ -21,10 +21,9 @@
 ### 🧠 About Me
 
 - 🎓 Mobile Development student in Portugal, going deep on **software engineering**
-- ⚽ Building a **multiplayer fantasy football web app**. My main learning vehicle for Java & Spring Boot
 - 🌱 Currently mastering: **Java · Spring Boot · PostgreSQL · REST API design**
 - 🚀 Long-term goal: become a well-rounded **Backend Software Engineer**, then explore **DevOps & Cloud**
-- 🧩 I learn by building real things, not by reading docs in a vacuum
+- 🧩 I learn by building real things
 
 ---
 
@@ -41,12 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-### 🚧 Current Project
-
-> **Fantasy Football App** - A multiplayer fantasy football platform with real leagues, live scoring, and transfer markets. Built with Spring Boot, PostgreSQL, and JWT auth. Designed to scale from web to mobile.
 
 ---
 
