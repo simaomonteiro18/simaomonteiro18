@@ -21,7 +21,7 @@
 ### 🧠 About Me
 
 - 🎓 Mobile Development student in Portugal, going deep on **software engineering**
-- 🌱 Currently mastering: **Java · Spring Boot**
+- 🌱 Working with: **Java · Spring Boot**
 - 🚀 Long-term goal: become a well-rounded **Backend Software Engineer**, then explore **DevOps & Cloud**
 - 🧩 I learn by building real things
 
@@ -41,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
 </p>
 
 ---
