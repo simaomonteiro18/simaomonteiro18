@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Mobile Development student in Portugal, going deep on **software engineering**
+- 🎓 Mobile Development student @ ISTEC Lisboa, going deep on **software engineering**
 - 🌱 Working with: **Java · Spring Boot**
 - 🚀 Long-term goal: become a well-rounded **Backend Software Engineer**, then explore **DevOps & Cloud**
 - 🧩 I learn by building real things
