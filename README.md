@@ -4,9 +4,9 @@
 
 # Hi, I'm Simão 👋
 
-**Aspiring Backend Software Engineer** crafting scalable systems with Java & Spring Boot
+**Backend Engineer in training** building reliable systems with Java & Spring Boot, focused on applied AI
 
-*Mobile Development student → Backend Software Engineer → DevOps & Cloud explorer*
+*Java & Spring Boot backend, now bringing LLMs into real systems, with architecture and cloud along the way*
 
 <br/>
 
@@ -20,15 +20,18 @@
 
 ### 🧠 About Me
 
-- 🎓 Mobile Development student @ ISTEC Lisboa, going deep on **software engineering**
-- 🌱 Working with: **Java · Spring Boot**
-- 🚀 Long-term goal: become a well-rounded **Backend Software Engineer**, then explore **DevOps & Cloud**
+- 🎓 2nd-year Mobile Development student @ ISTEC Lisboa, focused on **backend engineering**
+- 🌱 Working with: **Java · Spring Boot · Spring Security · PostgreSQL**
+- 🏗️ Latest project: **LisbonPitches**, a football pitch booking API with JWT auth, 100 tests and CI, deployed in production
+- 🤖 Currently studying: **applied AI for backend** (Spring AI, RAG, agents), **software architecture** and **cloud**
+- 🔎 Looking for a **curricular internship** in backend & AI from **March 2027**
 - 🧩 I learn by building real things
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/>
   &nbsp;
@@ -38,9 +41,45 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven" title="Maven"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45" height="45" alt="JUnit 5" title="JUnit 5"/>
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>
+</p>
+
+**DevOps & Cloud**
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions" title="GitHub Actions"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" width="45" height="45" alt="AWS" title="AWS (fundamentals)"/>
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" title="HTML"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" title="CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
+</p>
+
+**AI**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg" width="45" height="45" alt="Claude" title="Claude"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claudecode/claudecode-original.svg" width="45" height="45" alt="Claude Code" title="Claude Code"/>
 </p>
 
 ---
